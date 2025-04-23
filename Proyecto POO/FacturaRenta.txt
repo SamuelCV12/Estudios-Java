@@ -1,0 +1,11 @@
+Factura De Renta: 
+Cliente: Guadalupe
+Fecha: 11/10/2023
+
+Equipo: 1 Giradiscos
+Precio Renta: 50000.0
+
+Equipo: 2 Retro Radio
+Precio Renta: 90000.0
+
+Total a Pagar por El Alquiler: 140000.0

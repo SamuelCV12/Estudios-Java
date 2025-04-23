@@ -1,0 +1,11 @@
+Factura De Ventas: 
+Cliente: Samuel
+Fecha: 12/10/2024
+
+Equipo: 1 TV
+Precio Venta: 100000.0
+
+Equipo: 2 Gear_1
+Precio Venta: 100000.0
+
+Total a Pagar: 200000.0
